@@ -1,0 +1,21 @@
+[{
+    "id" : 1,
+    "name" : "saad",
+    "email" : "saad@gmail.com",
+    "company":"triStar" 
+},{
+    "id" : 2,
+    "name" : "saud",
+    "email" : "mmail@gmail.com",
+    "company":"GoldenStar" 
+},{
+    "id" : 3,
+    "name" : "Mohaviz",
+    "email" : "gomail@gmail.com",
+    "company":"Aptr" 
+},{
+    "id" : 4,
+    "name" : "Mahaz",
+    "email" : "maaz@gmail.com",
+    "company":"tarcol" 
+}]
