@@ -2,7 +2,7 @@ document.getElementById('btn1').addEventListener('click', fromTxt)
 document.getElementById('btn2').addEventListener('click',fromJSON)
 document.getElementById('btn3').addEventListener('click', fromExternal)
 
- const fromTxt=()=>{
+ function fromTxt=()=>{
     fetch('text.txt')
     .then((res)=>{
         return res.text()
